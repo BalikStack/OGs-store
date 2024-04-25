@@ -1,0 +1,6 @@
+### wymagania ###
+1. Wyświetlanie produktu z bazdy (tablica obiektów js)
+2. Filtorowanie po kategoriach
+3. Dodawanie do koszyka
+4. Podgląd koszyka z możliwością edycji
+
